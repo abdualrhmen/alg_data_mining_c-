@@ -1,0 +1,15 @@
+Age,Income,Student,Credit_Rating,Buys_Computer
+25,45000,No,Fair,No
+28,50000,No,Excellent,No
+35,60000,No,Fair,Yes
+42,85000,No,Fair,Yes
+45,75000,Yes,Fair,Yes
+55,65000,Yes,Excellent,No
+32,55000,Yes,Excellent,Yes
+22,40000,No,Fair,No
+21,42000,Yes,Fair,Yes
+48,90000,Yes,Fair,Yes
+23,38000,Yes,Excellent,Yes
+39,62000,No,Excellent,Yes
+51,72000,Yes,Fair,Yes
+36,58000,No,Excellent,No

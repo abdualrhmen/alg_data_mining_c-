@@ -1,0 +1,11 @@
+Symptom_Fever,Symptom_Cough,Symptom_Fatigue,Exposure,COVID_Result
+Yes,Yes,Yes,High,Positive
+No,Yes,No,Low,Negative
+Yes,No,Yes,Medium,Positive
+No,No,No,Low,Negative
+Yes,Yes,No,Medium,Positive
+No,Yes,Yes,High,Positive
+Yes,No,No,Low,Negative
+No,No,Yes,Medium,Negative
+Yes,Yes,Yes,Low,Positive
+No,No,No,High,Negative
